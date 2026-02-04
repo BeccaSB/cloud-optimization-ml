@@ -312,7 +312,7 @@ This project is submitted as academic work for the Master of Science in Informat
 - **Streamlit** for the interactive dashboard framework
 - **MSIT Program Faculty** for guidance and support
 - **Industry Practitioners** whose insights informed this research
-- **My Husband & So** for their support and encouragment
+- **My Husband & Son** for their support and encouragment
 
 ---
 
