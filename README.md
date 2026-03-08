@@ -196,14 +196,41 @@ Your browser opens automatically at `http://localhost:8501`
 
 ## Technologies Used
 
+### ✅ Currently Implemented (Phase 1 & 2)
+
 - **Python 3.11** - Programming language
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
-- **Matplotlib/Seaborn** - Data visualization
+- **Matplotlib / Seaborn** - Data visualization
 - **Scikit-learn** - Machine learning metrics
 - **Prophet** - Time series forecasting (by Facebook)
 - **Jupyter** - Interactive development environment
 - **Streamlit** - Interactive dashboard framework
+- **Git / GitHub** - Version control and collaboration
+
+### 🔭 Planned Enhancements (Phase 3 & Beyond)
+
+The following are identified on the project roadmap and are **not yet implemented** in the current prototype:
+
+- **ARIMA** - Benchmark comparison forecasting model *(Phase 3)*
+- **LSTM / TensorFlow** - Deep learning alternative to Prophet *(Phase 3)*
+- **boto3 (AWS SDK)** - Live AWS Auto Scaling API connection *(Phase 4)*
+- **azure-sdk** - Live Azure Virtual Machine Scale Sets integration *(Phase 4)*
+- **Google Cloud SDK** - Live GCP auto-scaling integration *(Phase 4)*
+- **Docker** - Containerized deployment *(Phase 5)*
+- **Kubernetes** - Container orchestration at scale *(Phase 5)*
+
+---
+
+## Development Roadmap
+
+| Phase | Status | Description |
+|-------|--------|-------------|
+| Phase 1: Data Pipeline | ✅ Complete | Data ingestion, cleaning, feature engineering |
+| Phase 2: ML Prototype | ✅ Complete | Prophet forecasting, scaling engine, Streamlit dashboard |
+| Phase 3: Advanced ML | 🔭 Planned | LSTM/ARIMA comparison, ensemble methods |
+| Phase 4: Cloud Integration | 🔭 Planned | Live AWS/Azure/GCP API connections |
+| Phase 5: Production Deployment | 🔭 Planned | Docker, Kubernetes, real-time monitoring |
 
 ---
 
@@ -295,8 +322,7 @@ If this project were extended beyond the capstone scope, potential enhancements 
 **Rebecca Sherwood**  
 MSIT Candidate  
 Email: sherwood.r3@icloud.com  
-GitHub: BeccaSB  
-
+GitHub: BeccaSB
 
 ---
 
@@ -312,7 +338,7 @@ This project is submitted as academic work for the Master of Science in Informat
 - **Streamlit** for the interactive dashboard framework
 - **MSIT Program Faculty** for guidance and support
 - **Industry Practitioners** whose insights informed this research
-- **My Husband & Son** for their support and encouragment
+- **My Husband & Son** for their support and encouragement
 
 ---
 
@@ -334,6 +360,13 @@ This project is submitted as academic work for the Master of Science in Informat
 **Solution:** Use `python -m streamlit run dashboard_app.py` instead
 
 For additional support, please contact the author or refer to library documentation.
+
+---
+
+**Last Updated:** February 2026  
+**Version:** 1.1  
+**Status:** ✅ Phase 1 & 2 Complete | 🔭 Phase 3–5 Planned
+
 
 ---
 
